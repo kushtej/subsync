@@ -81,6 +81,8 @@ $ subsync --calibrate
   SUCCESS!
   File Generated : sync_subtitlename.srt
 ```
+**Note:** Make sure you are in the same directory as `subtitlename.srt` or provide `/absolute/path/to/subtitename.srt`
+
 > **Note:** The script and documentation is only refrenced to linux system.
 
 > **Note:** The below code is a raw script and needs revision.If you notice any error in the code or optimize the code then feel free to post it in the comment section or collaborate to the gist.
