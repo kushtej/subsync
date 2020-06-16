@@ -1,5 +1,7 @@
 # Subtitle Synchronization
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
+
 We all have faced problem when it comes to syncing subtitles with a movie or a video we are watching.This is a raw script to sync subtitles with audio/video written in **python**.
 
 ## Setting up the script  
