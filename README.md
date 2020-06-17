@@ -10,8 +10,8 @@ We all have faced problem when it comes to syncing subtitles with a movie or a v
 
 **Step 2 :** Type the following commands in the Terminal.
 ```
-$ chmod +x subsync
-$ mv subsync /usr/local/bin/
+$ chmod +x setup.sh
+$ ./setup.sh
 ```
 ## Usage :
 
