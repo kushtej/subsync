@@ -15,6 +15,7 @@ def delay(time,sec):
 def calibrate():
 
     from . import color
+    import re
 
     color.prCyan("\nType : TEXT (Input in text only)")
     color.prYellow("\nFile Name : ")
