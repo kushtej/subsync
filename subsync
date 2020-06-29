@@ -19,6 +19,9 @@ try:
         print('--sync-time\tTo find haste/delay between video and subtitle in sec')
         print('--calibrate\tTo sync subtitles')
     
+    elif (sys.argv[1] == '--v' or sys.argv[1] == '--version' or sys.argv[1] == '-v' or sys.argv[1] == '-version' ):
+        print('Version - v0.0.1')
+
     elif sys.argv[1] == '--sync-time':
         color.prCyan("\nType : INT (Input in number only)\n")
         synctime.synctime()
