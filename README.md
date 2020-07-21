@@ -7,7 +7,7 @@ We all have faced problem when it comes to syncing subtitles with a movie or a v
 
 ## Setting up the script  
 
-**Step 1 :** Download the subsync script from [https://github.com/kushtej/subsync/](https://github.com/kushtej/subsync)
+**Step 1 :** Download the subsync script from [https://kushtej.github.io/subsync/](https://kushtej.github.io/subsync)
 
 **Step 2 :** Type the following commands in the Terminal.
 ```
