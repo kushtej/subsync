@@ -9,24 +9,26 @@ We all have faced problem when it comes to syncing subtitles with a movie or a v
 
 There are 2 options for downloading and setting up subsync in your machine :
 
- - Downloading the subsync Package.
- - Downloading the subsync script(lite-version)
+ 1. Downloading the subsync Package.
+ 2. Downloading the subsync script(lite-version)
  
- ### Setting up the package :
+ ### 1.Setting up the package :
 
 **Step 1 :** 
 
 Download the subsync script from [https://github.com/kushtej/subsync](https://github.com/kushtej/subsync).
+
 **OR**
+
 Download from the latest Release of subsync from [https://github.com/kushtej/subsync/releases/tag/0.1](https://github.com/kushtej/subsync/releases/tag/0.1)
 
 **Step 2 :** Type the following commands in the Terminal.
 
 ```
-$ chmod +x subsync
-$ mv subsync /usr/local/bin/
+$ chmod +x setup.sh
+$ ./setup.sh
 ```
- ### Setting up the Script(lite-verision) :
+ ### 2.Setting up the Script(lite-verision) :
 
 **Step 1 :** Download the subsync script from [https://kushtej.github.io/subsync](https://kushtej.github.io/subsync).
 
