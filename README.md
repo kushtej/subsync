@@ -5,7 +5,28 @@
 
 We all have faced problem when it comes to syncing subtitles with a movie or a video we are watching.This is a raw script to sync subtitles with audio/video written in **python**.
 
-## Setting up the script  
+## Setting up the Package/Script :  
+
+There are 2 options for downloading and setting up subsync in your machine :
+
+ - Downloading the subsync Package.
+ - Downloading the subsync script(lite-version)
+ 
+ ### Setting up the package :
+
+**Step 1 :** 
+
+Download the subsync script from [https://github.com/kushtej/subsync](https://github.com/kushtej/subsync).
+**OR**
+Download from the latest Release of subsync from [https://github.com/kushtej/subsync/releases/tag/0.1](https://github.com/kushtej/subsync/releases/tag/0.1)
+
+**Step 2 :** Type the following commands in the Terminal.
+
+```
+$ chmod +x subsync
+$ mv subsync /usr/local/bin/
+```
+ ### Setting up the Script(lite-verision) :
 
 **Step 1 :** Download the subsync script from [https://kushtej.github.io/subsync](https://kushtej.github.io/subsync).
 
