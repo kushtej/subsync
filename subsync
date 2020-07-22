@@ -36,5 +36,5 @@ except Exception:
     print("usage: subsync [--help] [--sync-time] [--calibrate]")
     color.prYellow("\nRefer documentation for further explination with examples\n")
     print("Documentation link : ",end="")
-    color.prGreen("https://github.com/kushtej/subsync\n\n")
+    color.prGreen("https://kushtej.github.io/subsync\n\n")
 
